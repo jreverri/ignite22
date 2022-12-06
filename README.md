@@ -1,5 +1,6 @@
 # Ignite 2022
-links and additional resources related to the Ignite 2022 session
+links and additional resources related to the Ignite 2022 session - Securing Transactions in
+a Zero Trust Environment
 
 
 
