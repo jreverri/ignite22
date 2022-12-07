@@ -7,6 +7,7 @@ Additional resources related to the Ignite 2022 session - Securing Transactions 
 * Unit 42 Consulting - https://www.paloaltonetworks.com/unit42/assess
 * Best Practices Home - https://docs.paloaltonetworks.com/best-practices
 * Zero Trust Home - https://www.paloaltonetworks.com/zero-trust
+* On Demand Tech Deep Dive - https://register.paloaltonetworks.com/nebula-tech-deep-dive-series
 
 ## Tools
 * MITRE ATT&CK Groups - https://attack.mitre.org/groups/
