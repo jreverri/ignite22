@@ -1,10 +1,15 @@
 # Ignite 2022 - Securing Transactions in a Zero Trust Environment
 Additional resources related to the Ignite 2022 session - Securing Transactions in a Zero Trust Environment
 
-![dystopia malware1](images/seed_799530_00000.png)
+![cyber pathogins in the wild](images/seed_799530_00000.png)
+
+## Links
+* Unit 42 Consulting - https://www.paloaltonetworks.com/unit42/assess
+* Best Practices Home - https://docs.paloaltonetworks.com/best-practicesz
+* Zero Trust Home - https://www.paloaltonetworks.com/zero-trust
 
 ## Tools
-* Unit 42 Consulting - https://www.paloaltonetworks.com/unit42/assess
+* MITRE ATT&CK Groups - https://attack.mitre.org/groups/
 * Unit 42 ATOMS - https://unit42.paloaltonetworks.com/atoms/
 * MITRE ATT&CK Navigator- https://mitre-attack.github.io/attack-navigator/
 
