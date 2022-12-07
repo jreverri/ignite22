@@ -5,7 +5,7 @@ Additional resources related to the Ignite 2022 session - Securing Transactions 
 
 ## Links
 * Unit 42 Consulting - https://www.paloaltonetworks.com/unit42/assess
-* Best Practices Home - https://docs.paloaltonetworks.com/best-practicesz
+* Best Practices Home - https://docs.paloaltonetworks.com/best-practices
 * Zero Trust Home - https://www.paloaltonetworks.com/zero-trust
 
 ## Tools
