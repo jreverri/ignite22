@@ -1,11 +1,7 @@
-# Ignite 2022
-Additional resources related to the Ignite 2022 session - Securing Transactions in
-a Zero Trust Environment
+# Ignite 2022 - Securing Transactions in a Zero Trust Environment
+Additional resources related to the Ignite 2022 session - Securing Transactions in a Zero Trust Environment
 
 ![dystopia malware1](images/seed_550682_00003.png)
-
-
-
 
 ## Tools
 * Unit 42 Consulting - https://www.paloaltonetworks.com/unit42/assess
