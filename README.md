@@ -12,7 +12,8 @@ Additional resources related to the Ignite 2022 session - Securing Transactions 
 ## Tools
 * MITRE ATT&CK Groups - https://attack.mitre.org/groups/
 * Unit 42 ATOMS - https://unit42.paloaltonetworks.com/atoms/
-* MITRE ATT&CK Navigator- https://mitre-attack.github.io/attack-navigator/
+* MITRE ATT&CK Navigator - https://mitre-attack.github.io/attack-navigator/
+* CDSS mapping JSON files - https://github.com/jreverri/cdss-attack-navigator
 
 ## Further Learning
 * SANS Training - https://www.sans.org/purple-team/
